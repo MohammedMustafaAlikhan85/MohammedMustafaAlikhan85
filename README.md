@@ -2,7 +2,7 @@
 
 🎯 **Aspiring DevOps | Cybersecurity Enthusiast**
 
-- 🔍 Currently learning **Python** and building projects 
+- 🔭 Currently learning **Python** and building projects 
 - ⚙️ Focused on **DevOps**, **Cloud Computing**, and **Automation Tools**  
 - 🛡️ Planning to explore **Cybersecurity** after mastering **DevOps**  
 - 💻 Comfortable using **VS Code**,**Git**,**GitHub**  
