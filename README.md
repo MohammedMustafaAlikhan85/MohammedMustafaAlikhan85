@@ -30,11 +30,6 @@
 ---
 
 
-### 🧠 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight )
-
----
-
 ## 📫 Connect with me
 - 📧 Email: [mohammedmustafaalikhan9@gmail.com](mailto:mohammedmustafaalikhan9@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/mohammed-mustafa-ali-khan-b8a310270](https://www.linkedin.com/in/mohammed-mustafa-ali-khan-b8a310270)
