@@ -25,13 +25,13 @@
 ---
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAlikhan85&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAlikhan85&layout=compact&theme=tokyonight&v=2)
 
 ---
 
 
 ### 🧠 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)&v=2
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight )
 
 ---
 
