@@ -14,7 +14,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMustafaAlikhan85&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMustafaAlikhan85&show_icons=true&theme=dark)
+
+
 
 ---
 
@@ -25,7 +27,8 @@
 ---
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAlikhan85&layout=compact&theme=tokyonight&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAlikhan85&layout=compact&theme=dark)
+
 
 ---
 
