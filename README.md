@@ -41,5 +41,3 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=MohammedMustafaAliKhan85&label=Profile+Views&color=0e75b6&style=flat)
-
