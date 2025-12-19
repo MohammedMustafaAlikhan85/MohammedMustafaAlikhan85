@@ -27,7 +27,7 @@
 ---
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAlikhan85&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAlikhan85&layout=compact&)
 
 
 ---
