@@ -14,7 +14,7 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMustafaAlikhan85&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMustafaAlikhan85&show_icons=true&theme=dark)
 
 
 
@@ -22,7 +22,7 @@
 
 
 ### 🏆 GitHub Achievements
-![GitHub Streak](https://streak-stats.demolab.com?user=MohammedMustafaAlikhan85&theme=tokyonight&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=MohammedMustafaAlikhan85&theme=tokyonight)
 
 ---
 
