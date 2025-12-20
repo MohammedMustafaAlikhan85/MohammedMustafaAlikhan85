@@ -14,7 +14,7 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMustafaAlikhan85&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMustafaAlikhan85&show_icons=true)
 
 
 
@@ -35,7 +35,7 @@
 
 ## 📫 Connect with me
 - 📧 Email: [mohammedmustafaalikhan9@gmail.com](mailto:mohammedmustafaalikhan9@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/mohammed-mustafa-ali-khan-b8a310270](https://www.linkedin.com/in/mohammed-mustafa-ali-khan-b8a310270)
+- 💼 LinkedIn: [www.linkedin.com/in/mohammed-mustafa-ali-khan-b8a310270](https://www.linkedin.com/in/mohammed-mustafa-ali-khan-dev)
 - 🐱 GitHub: [MohammedMustafaAliKhan85](https://github.com/MohammedMustafaAliKhan85)
 - 💬 Discord: mustafa059
 
