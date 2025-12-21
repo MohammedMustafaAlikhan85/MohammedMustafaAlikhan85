@@ -9,7 +9,7 @@
 - 🌱 Always curious to learn and explore new technologies and skills  
 
 ## 🛠️ Skills
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" width="350"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,git,github,vscode" width="350"/>
 
 ---
 
