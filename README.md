@@ -1,10 +1,10 @@
 # Hi 👋 I'm Mohammed Mustafa Ali Khan
 
-🎯 **Aspiring DevOps Engineer | Cloud & Automation Enthusiast**
+🎯 **Aspiring Cloud Engineer | Cloud & Automation Enthusiast**
 
 - 🔭 Currently learning **Python** and building hands-on projects  
-- ⚙️ Focused on **DevOps**, **Cloud Computing**, and **Automation Tools**  
-- 🛡️ Planning to explore **Cybersecurity** after building a strong **DevOps foundation**  
+- ⚙️ Focused on  **Cloud Computing**, and **Automation Tools**  
+- 🛡️ Planning to explore **Cybersecurity** after building a strong **Cloud Computing***  
 - 💻 Comfortable with **VS Code**, **Git**, **GitHub**  
 - 🌱 Always curious to learn, experiment, and grow with new technologies  
 
