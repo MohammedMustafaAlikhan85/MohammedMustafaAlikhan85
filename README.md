@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Cloud Engineer | Cloud & Automation Enthusiast**
 
-- 🔭 Currently learning **Python** and building hands-on projects  
+- 🔭 Currently learning **Python** and building hands-on projects 
 - ⚙️ Focused on  **Cloud Computing**, and **Automation Tools**  
 - 🛡️ Planning to explore **Cybersecurity** after building a strong **Cloud Computing***  
 - 💻 Comfortable with **VS Code**, **Git**, **GitHub**  
